@@ -28,20 +28,11 @@
 
 ---
 
-## 📈 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yug29&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=yug29&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
-
----
-
 ## 🌍 Connect with Me  
 
 📧 **Email:** [yugmody@gmail.com](mailto:yugmody@gmail.com)  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yug%20Mody-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yugmody)  [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yug29)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yug_m29)  
+[![Linkedin Badge](https://img.shields.io/badge/-Yug%20Mody-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yug-mody-a12b55381)  [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yug29)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yug_m29)  
 
 ---
 
