@@ -32,7 +32,7 @@
 
 📧 **Email:** [yugmody@gmail.com](mailto:yugmody@gmail.com)  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yug%20Mody-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yug-mody-a12b55381)  [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yug29)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yug_m29)  
+[![Linkedin Badge](https://img.shields.io/badge/-Yug%20Mody-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yug-mody-a12b55381)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yug_m29)  
 
 ---
 
